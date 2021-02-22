@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Girish. 
+I'm Girish Talekar. 
 
 - 🔭 Full Stack Developer and working at [Infracloud](https://www.infracloud.io/), India.
 - 📫 How to reach me:
