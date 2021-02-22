@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Girish. 
+
+- 🔭 Full Stack Developer and working at [Infracloud](https://www.infracloud.io/), India.
+- 📫 How to reach me:
+     - [LinkedIn](https://www.linkedin.com/in/girish-talekar-78806a66)
+
+
 <!--
 **girishg4t/girishg4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
