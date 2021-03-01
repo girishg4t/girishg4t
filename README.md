@@ -2,7 +2,7 @@
 
 I'm Girish Talekar. 
 
-- 🔭 Full Stack Developer and working at [Infracloud](https://www.infracloud.io/), India.
+- 🔭 Opensource contributor | Full Stack Developer | working at [Infracloud](https://www.infracloud.io/), India.
 - 📫 How to reach me:
      - [LinkedIn](https://www.linkedin.com/in/girish-talekar-78806a66)
 
