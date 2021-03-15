@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Girish Talekar. 
+I'm Girish Talekar ![](https://visitor-badge.glitch.me/badge?page_id=girishg4t)
 
 - 🔭 Opensource contributor | Full Stack Developer | working at [Infracloud](https://www.infracloud.io/), India.
 - 📫 How to reach me:
